@@ -1,6 +1,15 @@
+T1A2 - My Portfolio
 
-    A link (URL) to your published portfolio website
-    A link to your GitHub repo
+Argine Harutyunyan
+
+Website URL: https://portfolio-arharutyu.vercel.app/index.html
+
+GitHub repository: https://github.com/arharutyu/t1a2
+
+Purpose:
+
+
+
     Description of your portfolio website, including,
         Purpose
         Functionality / features
