@@ -5,7 +5,7 @@
 
 [GitHub repository](https://github.com/arharutyu/t1a2)
 
-Link to presentation
+[Presentation Video](https://youtu.be/Q0A_eDBu3NA)
 
 ---
 
@@ -64,7 +64,7 @@ HTML5, CSS3, deployment via Vercel
 **Tablet View**
 ![about tablet screenshot](./docs/about-tab.png)
 **Mobile View**
-![about mobile screenshot]
+![about mobile screenshot](./docs/about-mob.png)
 
 ### Contact
 **Functionality/Features**

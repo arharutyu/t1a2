@@ -118,17 +118,16 @@ a:active {
 }
 
 .widebox {
-    width: 100%;
-    max-width: 420px;
-    background-color: #f9f7f3;
-    flex-direction: column;
-    align-items: center;
-    padding: 2rem;
-    border-radius: 10px;
-    margin: 1px;
-    border-color: #4e5340;
-    border-style: solid;
-    
+  width: 100%;
+  max-width: 420px;
+  background-color: #f9f7f3;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 10px;
+  margin: 1px;
+  border-color: #4e5340;
+  border-style: solid;
 }
 
 .content {
@@ -209,7 +208,7 @@ time {
 }
 
 span {
-    padding: 5px;
+  padding: 5px;
 }
 
 .blogcnt {
